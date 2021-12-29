@@ -1,0 +1,4 @@
+Gostaria de deixar registrado que já possuo repositórios no Git e GitHub.
+O último foi de um projeto para a conclusão do curso de especialização em desenvolvimento de software.
+Foram utilizados Java, PostgreSQL e Angular
+Segu o link: https://github.com/PompeaBatista/projto-final.git
